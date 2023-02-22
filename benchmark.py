@@ -55,7 +55,7 @@ warnings.filterwarnings("ignore")
 #############################################################################
 # MOABB application
 
-## Parameter
+## Parameters
 classes = 2
 channels = 22 #defined by dataset
 sp = 1001 #defined by dataset
