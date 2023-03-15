@@ -34,9 +34,8 @@ from moabb.pipelines.utils import FilterBank
 
 
 # Local imports
-from utils.models.EEGNet_v2 import model_EEGNet
 from utils.models.shallow_cnn import Shallow_CNN
-from utils.models.EEGNet3 import EEGNet
+from utils.models.EEGNet import EEGNet
 from utils.utils_2 import Estimator
 from utils.local_paradigms import LeftRightImageryAccuracy,FilterBankLeftRightImageryAccuracy
 
